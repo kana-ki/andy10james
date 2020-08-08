@@ -16,7 +16,7 @@ We want to create the world’s universal, community driven, one-stop-shop for a
 
 **LinqEm's goal is for *every search starts with a community-driven collection of web content*.**
  
-## 👯 I’m looking to collaborate on ...
+### 👯 I’m looking to collaborate on ...
 
 A quiz site where quiz content is controlled internally and quiz answers are shown along side the user's answers so they can gauge the correctness for themselves. I would like to use this to quiz and help apprentices and other employees learn coding guidelines. 
 
